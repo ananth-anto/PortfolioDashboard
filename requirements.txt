@@ -1,0 +1,6 @@
+Flask
+pdfplumber
+numpy
+pandas
+matplotlib
+Flask-Session
